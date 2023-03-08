@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata: 
-  namesace: default
+  namespace: default
   name: hello-world
 spec:
   replicas: 2
